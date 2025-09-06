@@ -1,0 +1,22 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+# Android Studio related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# Mac related
+.DS_Store
+
+# Windows related
+Thumbs.db
+
+# Generated files
+pubspec.lock
